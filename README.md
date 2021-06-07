@@ -1,4 +1,4 @@
-# QUOTATIONS ON SIMPLICITY OF DESIGN (JUNIO 2021)
+# QUOTATIONS ON SIMPLICITY OF DESIGN (JUNE 2021)
 ###### Autor: [Manuel Moya - mmoyam@gmail.com]
 
 The goal of this work is to share a compilation of phrases that speak of the Simplicity of Design. It is based on the work of Illinois State University' user ~asharm4 at 2009.
